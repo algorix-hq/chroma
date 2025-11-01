@@ -1,8 +1,7 @@
-# Chroma
-
 <img width="4434" height="1506" alt="Thumbnail" src="https://github.com/user-attachments/assets/8b4cbcfa-2ec5-419e-b74b-68551d5eeedd" />
 
-<br/>
+
+# Chroma
 
 > Chroma — a scalable design and development system that unifies **the entire product lifecycle into one integrated experience platform.**
 
