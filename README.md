@@ -3,7 +3,7 @@
 
 # Chroma
 
-> Chroma — a scalable design and development system that unifies **the entire product lifecycle into one integrated experience platform.**
+> Scalable design and development system that unifies **the entire product lifecycle into one integrated experience platform.**
 
 Chroma unifies design and development into a scalable system that serves as **both a design platform and experience framework throughout the product lifecycle.**
 - Abstracts design tokens and components used across products into reusable, structured rules, embedding accessibility and usability at the system level.
